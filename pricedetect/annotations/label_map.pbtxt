@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'list'
+}
+
+item {
+    id: 2
+    name: 'price'
+}
+
+item {
+    id: 3
+    name: 'name'
+}
+
+item {
+    id: 4
+    name: 'barcode'
+}
